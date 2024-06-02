@@ -1,0 +1,104 @@
+{
+  "product": "Spain Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebrate the beginning of the new year with family and friends"
+    },
+    {
+      "title": "Epiphany",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-06T12:00:00",
+      "endDate": "2025-01-06T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebrate the arrival of the three kings and the end of the Christmas season"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-10T12:00:00",
+      "endDate": "2025-04-10T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "teal",
+      "description": "Commemorate the crucifixion of Jesus Christ"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebrate and honor the contributions of workers"
+    },
+    {
+      "title": "Assumption of Mary",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-15T12:00:00",
+      "endDate": "2025-08-15T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Celebrate the assumption of the Virgin Mary into Heaven"
+    },
+    {
+      "title": "National Day of Spain",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-12T12:00:00",
+      "endDate": "2025-10-12T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "red",
+      "description": "Celebrate Spain's national day with parades and festivities"
+    },
+    {
+      "title": "All Saints' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-01T12:00:00",
+      "endDate": "2025-11-01T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "orange",
+      "description": "Honor all saints and martyrs"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-06T12:00:00",
+      "endDate": "2025-12-06T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "green",
+      "description": "Commemorate the Spanish Constitution of 1978"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of Spain",
+      "product": "Spain Public Holidays 2025",
+      "style": "red",
+      "description": "Celebrate the birth of Jesus Christ with family and friends"
+    }
+  ]
+}
